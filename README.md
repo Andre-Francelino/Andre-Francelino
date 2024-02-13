@@ -2,8 +2,8 @@
 ### Bem vindo ao meu perfil do GitHub ! 
 
 
-- 🔭 Atualmente trabalho como Técnico em Eletrotécnica na Teccel Engenharia, prestando serviços de análise de projetos elétricos e planejamento para execução de obras de construção e manutenção em redes elétricas.
-- 🌱 Sou aluno do curso Análise e Desenvolvimento de Sistemas da Unifip (Campus Patos-PB)
+-  Atualmente trabalho como Técnico em Eletrotécnica na Teccel Engenharia, prestando serviços de análise de projetos elétricos e planejamento para execução de obras de construção e manutenção em redes elétricas.
+-  Recentemente me formei em Análise e Desenvolvimento de Sistemas pela Unifip, Campus Patos-PB
 
 ### Ferramentas e Tecnologias
 - 💻📚☕ Abaixo estão algumas tecnologias que utilizo e que estou sempre estudando:
@@ -15,8 +15,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="100" height="80"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="90" height="120"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="80" height="100"/>
 
